@@ -203,3 +203,6 @@ This repository serves as the official landing page for Spiceworks. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spiceworks today!**
+
+---
+**Last updated:** 2026-11-07 06:41:17 UTC
