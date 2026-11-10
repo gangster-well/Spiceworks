@@ -205,4 +205,4 @@ This repository serves as the official landing page for Spiceworks. The software
 **Get the most recent version of Spiceworks today!**
 
 ---
-**Last updated:** 2026-11-10 00:54:14 UTC
+**Last updated:** 2026-11-10 07:50:04 UTC
